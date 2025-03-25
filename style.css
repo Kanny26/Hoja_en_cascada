@@ -1,0 +1,85 @@
+h2{
+    text-align: center;
+    font-size: 20px;
+}
+.Ejercicio1{   
+    width: 10px;
+    border: 5px solid rgb(109, 0, 128);
+    border-radius: 20px;
+    padding: 50px;
+    margin: 0 auto;
+    background-color: white;
+}
+.Ejercicio2{   
+    width: 10px;
+    border: 5px solid rgb(201, 201, 201);
+    padding: 50px;
+    margin: 0 auto;
+    background-color:rgb(201, 201, 201);
+    box-shadow: 3px 4px 2px gray;
+}
+
+.Ejercicio3{   
+    width: 10px;
+    padding: 50px;
+    margin: 0 auto;
+    background-color:#c47b7b;
+}
+.Ejercici3{   
+    width: 10px;
+    padding: 50px;
+    margin: 0 auto;
+    background-color:#b17dc5;
+}
+.Ejercic3{   
+    width: 10px;
+    padding: 50px;
+    margin: 0 auto;
+    background-color:#d0f5f4;
+}
+
+.Ejercicio4{   
+    width: 10px;
+    padding: 50px;
+    margin: 0 auto;
+    background-color:hsl(219, 46%, 64%);
+}
+/* rgb */
+.Ejercicio5{   
+    width: 10px;
+    padding: 50px;
+    margin: 0 auto;
+    background-color:rgb(130, 192, 211);
+}
+/* rgba */
+.Ejercici5{   
+    width: 10px;
+    padding: 50px;
+    margin: 0 auto;
+    background-color:rgba(127, 49, 102,0.5);
+}
+.Ejercicio6y7{
+    background-image: url(img/background.jpg);
+    background-position: right; /*cambia la imagen de lado*/
+    background-size: 300px;
+    width: 200px;
+    height: 200px;
+    padding: 100 500 80;
+    margin: 0 auto;
+}
+.Ejercicio8{
+    background-image: url(img/background1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 2000px;
+    height: 200px;
+    padding: 200 400 80;
+    margin: 0 auto;
+}
+.Ejercicio9{
+    width: 600px;
+    height: 200px;
+    margin: 0 auto;
+    background: linear-gradient(to left, rgb(130, 192, 211),rgb(200, 143, 183),rgb(118, 65, 129) );
+}
